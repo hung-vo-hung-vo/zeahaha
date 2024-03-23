@@ -8,3 +8,4 @@ __pycache__
 .DS_Store
 binance_futures_connector.egg-info
 env
+.env
